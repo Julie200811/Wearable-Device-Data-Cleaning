@@ -1,5 +1,4 @@
-#R Script from Course Three Week Four Peer Assignment
-#Merging training data and test data into a tidy data format
+#Merging training data and test data from a wearables device analysios into a tidy data format
 
 #load up the activity labels and the features
 
