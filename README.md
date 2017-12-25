@@ -1,1 +1,1 @@
-# datasciencecoursera
+# Tidy Data Project
